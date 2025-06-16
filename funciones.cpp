@@ -305,3 +305,13 @@ void cargarLoteProductos() {
     }
     cout << "----------------------------------------------------------------------" << endl;
 }
+//void mostrarReportes() { para los reportes
+    //int opcion;
+        //cout << "1. Recaudacion por producto: " << endl;
+        //cout << "2. Porcentaje de ventas por forma de pago: (no implementado)" << endl;
+        //cout << "3. Ventas por marca y formas de pago: (no implementado)" << endl;
+        //cout << "4. Productos sin ventas: (no implementado)" << endl;
+        //cout << "5. Top  10 clientes + sorteo de cupones: (no implementado)" << endl;
+        //cout << "0. Salir" << endl;
+        //cout << "Seleccione una opcion: ";
+        //cin >> opcion;
